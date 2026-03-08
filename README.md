@@ -106,6 +106,9 @@ streamlit run app.py
 **Abhishek Mishra**\
 BE CSE (Data Science)
 
+**Harsh Kumar**\
+BE CSE (Data Science)
+
 ------------------------------------------------------------------------
 
 ## 📌 Conclusion
